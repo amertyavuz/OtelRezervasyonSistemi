@@ -1,0 +1,86 @@
+body {
+  /*padding: 50px;*/
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+body{
+	
+	
+}
+h1{
+	
+	
+	
+}
+h2{
+	
+	
+	
+}
+h3{
+	
+	
+	
+}
+h4{
+	
+	
+	
+}
+h5{
+	
+	
+	
+}
+h6{
+	
+	
+	
+}
+p{
+	
+	
+}
+#p0{
+	
+	   border: 1px solid black;
+    padding: 10px;
+    margin: 30px;
+	
+}
+
+.col-xs-12.col-sm-12.col-lg-12 > pre{
+font-family:verdana; 
+font-size:120%;
+font-weight: bold;
+text-color: pink;
+margin-top:5px;
+}
+
+input.number{
+	font-size: 25px;
+    height: 42px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 150px !important;
+}
+button.dropdwn{
+	font-size: 22px;
+    height: 42px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 150px;
+}
+
+table.aydinlatma th{
+	font-size: 18px;
+    font-weight: lighter;
+}
+
+table.aydinlatma button{
+     height: 30px;
+     width: 80px;
+ }

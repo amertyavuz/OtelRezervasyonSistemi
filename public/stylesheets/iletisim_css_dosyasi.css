@@ -1,0 +1,32 @@
+.footer{
+    background-color:#333 ;
+    height: 100px;
+    margin-bottom: 0px;
+    padding-bottom: 0%;
+}
+.row{
+    padding-left:8%;
+    width:100%;
+}
+.kordon-otel{
+    color: white;
+}
+.container-footer{
+    bottom: 0%;
+}
+.contact{
+    position: relative;
+    padding: 70px 0;
+}
+.baslik{
+    text-align: center;
+}
+.locations h3{
+    text-align: center;
+}
+.contact-form{
+    background-color: #c9e2b3;
+}
+.formButonu{
+    width: 100%;
+}

@@ -1,0 +1,5 @@
+
+#reservationPageRoom { background:white !important; opacity: 0.9; display: block;position: absolute; left:10%; top:7%; margin-left: 7px; margin-top: 2px; padding-top: 8px;}
+#reservationPageRoom .selectChild,.selectAdult,.selectHotel,.girisTarihi{ padding-left: 4px;}
+#reservationPageRoom ,.selectAdult,.selectChild{ display: block; }
+.girisTarihi,.cikisTarihi { float:left; }
