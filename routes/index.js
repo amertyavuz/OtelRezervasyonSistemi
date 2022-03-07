@@ -7,13 +7,13 @@ var helper=require('../Helpers/MysqlHelpers');
 var url = require('url');
 var mailAccountUser = 'ayberkoteli@gmail.com';
 var mailAccountPassword = '12345678AA';
-var fromEmailAddress = 'ayberkoteli@gmail.com';
-var toEmailAddress = 'ayberkoteli@gmail.com';
+var fromEmailAddress = 'asd@gmail.com';
+var toEmailAddress = 'asd@gmail.com';
 var transport = nodemailer.createTransport(smtpTransport({
     service: 'gmail',
     auth: {
-        user: 'ayberkoteli@gmail.com',
-        pass: '12345678AA'
+        user: 'asd@gmail.com',
+        pass: '123456789'
     }
 }));
 module.exports = router;
